@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48778" started-at="2022-04-23T07:21:40Z" finished-at="2022-04-23T07:22:28Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="48778" started-at="2022-04-23T07:21:40Z" finished-at="2022-04-23T07:22:28Z">
+      <class name="com.automation.framework.testcases.HomeTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.automation.framework.testcases.HomeTest@1e9e725a]" name="init" is-config="true" duration-ms="24615" started-at="2022-04-23T07:21:40Z" finished-at="2022-04-23T07:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="selectBottomNav()[pri:1, instance:com.automation.framework.testcases.HomeTest@1e9e725a]" name="selectBottomNav" duration-ms="24017" started-at="2022-04-23T07:22:04Z" finished-at="2022-04-23T07:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBottomNav -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automation.framework.testcases.HomeTest@1e9e725a]" name="close" is-config="true" duration-ms="1" started-at="2022-04-23T07:22:28Z" finished-at="2022-04-23T07:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automation.framework.testcases.HomeTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite -->
+</testng-results>
